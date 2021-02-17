@@ -1,5 +1,5 @@
 # PingInspectorPH
-Ping Checker for League of Legends PH, Dota2 Singapore Server
+Ping Checker for League of Legends Philippines, Dota2 Singapore Server
 
 # Sample Screenshots:
 
